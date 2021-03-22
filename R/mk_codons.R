@@ -2,7 +2,6 @@
 library(devtools)
 
 #' R/mk_codons.R
-#' Add together two numbers
 #' 
 #' @param codons is a substring of DNA
 #' @return Sequence of codons, length l
